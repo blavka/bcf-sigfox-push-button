@@ -1,0 +1,21 @@
+dist: trusty
+language: c
+addons:
+  apt:
+    sources:
+      - sourceline: ppa:team-gcc-arm-embedded/ppa
+    packages:
+      - gcc-arm-embedded
+script:
+  - make release OUT=bcf-sigfox-button-${TRAVIS_TAG}
+deploy:
+  skip_cleanup: true
+  file_glob: true
+  file: out/release/*.bin
+  api_key: ${GITHUB_KEY}
+  provider: releases
+  overwrite: true
+  on:
+    tags: true
+notifications:
+  email: false
