@@ -13,10 +13,10 @@ This repository contains firmware for Sigfox Button.
 
 The following hardware components are used for this project:
 
-* **[Button Module](https://shop.bigclown.com)**
-* **[Core Module](https://shop.bigclown.com/products/core-module)**
-* **[Sigfox Module](https://shop.bigclown.com/products/sigfox-module)**
-* **[Mini Battery Module](https://shop.bigclown.com/products/mini-battery-module)**
+* **[Button Module](https://shop.bigclown.com/button-module)**
+* **[Core Module](https://shop.bigclown.com/core-module)**
+* **[Sigfox Module](https://shop.bigclown.com/sigfox-module)**
+* **[Mini Battery Module](https://shop.bigclown.com/mini-battery-module)**
 
 ## License
 
