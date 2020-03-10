@@ -1,11 +1,11 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
-# Firmware for BigClown Sigfox Button
+# Firmware for HARDWARIO Sigfox Button
 
 [![Travis](https://img.shields.io/travis/bigclownlabs/bcf-sigfox-button/master.svg)](https://travis-ci.org/bigclownlabs/bcf-sigfox-button)
 [![Release](https://img.shields.io/github/release/bigclownlabs/bcf-sigfox-button.svg)](https://github.com/bigclownlabs/bcf-sigfox-button/releases)
 [![License](https://img.shields.io/github/license/bigclownlabs/bcf-sigfox-button.svg)](https://github.com/bigclownlabs/bcf-sigfox-button/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
+[![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 This repository contains firmware for Sigfox Button.
 
